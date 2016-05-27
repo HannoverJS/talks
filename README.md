@@ -2,7 +2,7 @@
 
 > Talk Ideas and Archive of all HannoverJS Talks
 
-**Looking for talk ideas? Have a look at the [issues](https://github.com/HannoverJS/talks/issues)!**
+Looking for talk ideas? Have a look at the [issues](https://github.com/HannoverJS/talks/issues)!
 
 ## Archive
 
