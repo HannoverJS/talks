@@ -1,6 +1,8 @@
-# HannoverJS Talks Archive
+# HannoverJS Talks
 
-> Archive of all HannoverJS Talks (with Links to the Slides)
+> Talk Ideas and Archive of all HannoverJS Talks
+
+**Looking for talk ideas? Have a look at the [issues](https://github.com/HannoverJS/talks/issues)!**
 
 ## 2015
 
