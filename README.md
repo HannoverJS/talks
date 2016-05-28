@@ -10,7 +10,7 @@ Looking for talk ideas? Have a look at the [issues](https://github.com/HannoverJ
 
 ##### October 22
 
-- What The Flux by [Robin Thrift](https://twitter.com/RobinThrift)
+- [What The Flux](http://robinthrift.github.io/flux-pres/#/) by [Robin Thrift](https://twitter.com/RobinThrift)
 
 ##### November 26
 
