@@ -2,16 +2,18 @@
 
 > HannoverJS Talk Proposals, Talk Ideas & Talks Archive
 
-##### Looking for talk ideas? 
+## Submitting a Talk
 
-Take a look at the [**issues**](https://github.com/HannoverJS/talks/issues?q=is%3Aopen+is%3Aissue+label%3A%22Talk+Idea%22) or how about a [**lightning talk**](https://github.com/HannoverJS/talks/issues?q=is%3Aopen+is%3Aissue+label%3A%22Lightning+Talk+Idea%22)?
+To submit a talk, just [**create a new issue**](https://github.com/HannoverJS/talks/issues/new). We have prepared a template for you and you only have to replace the required fields. If you want to add additional information like a prefered date, just add it as a new comment to your opened issue. After that, we will review your submission and set it as upcoming talk.
 
-## Submit a Talk
+###### Notes:
+- Before submitting, please make sure that your topic isn't covered yet by someone else in the [**issues**](https://github.com/HannoverJS/talks/issues).
+- If there is already an open issue with your topic as talk idea, please reference that issue in an extra comment.
 
-To submit a talk, just [**create a new issue**](https://github.com/HannoverJS/talks/issues/new). We have already prepared a template for you where you only have to replace the required fields. If you need want add additional information like a prefered date, just add it as new comment to your submission. After that, we will review your submission and set it as upcoming talk.
 
-###### Note:
-If there is already an open issue with your topic, please use that issue instead.
+## Talk Ideas
+
+Need some talk ideas? We got you covered, just take a look at the [**issues**](https://github.com/HannoverJS/talks/issues?q=is%3Aopen+is%3Aissue+label%3A%22Talk+Idea%22) or how about a [**lightning talk**](https://github.com/HannoverJS/talks/issues?q=is%3Aopen+is%3Aissue+label%3A%22Lightning+Talk+Idea%22)?
 
 ## Talks 2016
 
