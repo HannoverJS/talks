@@ -11,7 +11,7 @@ To submit a talk, just [**create a new issue**](https://github.com/HannoverJS/ta
 - If there is already an open issue with your topic as talk idea, please reference that issue in an extra comment.
 
 
-## Talk Ideas
+#### Talk Ideas
 
 Need some talk ideas? We got you covered, just take a look at the [**issues**](https://github.com/HannoverJS/talks/issues?q=is%3Aopen+is%3Aissue+label%3A%22Talk+Idea%22) or how about a [**lightning talk**](https://github.com/HannoverJS/talks/issues?q=is%3Aopen+is%3Aissue+label%3A%22Lightning+Talk+Idea%22)?
 
