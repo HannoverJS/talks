@@ -39,3 +39,6 @@ Talks from the past years can be found [here](https://github.com/HannoverJS/talk
 
 - [grep/ack/ag](https://speakerdeck.com/stphnrdmr/grep-ack-ag) by [Stephan Rodemeier](https://twitter.com/stphnrdmr)
 
+#### July 28
+
+- [What is React?](https://github.com/timche/what-is-react) by [Tim Cheung](https://twitter.com/timche_)
