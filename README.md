@@ -9,6 +9,7 @@ To submit a talk, [**create a new issue**](https://github.com/HannoverJS/talks/i
 ###### Notes:
 - Before submitting, please make sure that your topic isn't covered yet by someone else in the [**issues**](https://github.com/HannoverJS/talks/issues).
 - If there is already an open issue with your topic as talk idea, please reference that issue in an extra comment.
+- A normal talk should not exceed 30 minutes, a lightning talk should be limited to 10 minutes
 
 #### Talk Ideas
 
