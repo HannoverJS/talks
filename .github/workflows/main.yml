@@ -1,0 +1,14 @@
+name: Build Website
+
+on:
+  issues:
+    types: [milestoned]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Call other repo
+      run: |
+        curl -XPOST -u "${{ secrets.GH_USERNAME}}:${{secrets.GH_TOKEN}}" -H "Accept: application/vnd.github.everest-preview+json" -H "Content-Type: application/json" https://api.github.com/repos/HannoverJS/website/dispatches --data '{"event_type": "build_application"}'
+
